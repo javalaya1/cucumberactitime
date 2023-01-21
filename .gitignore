@@ -1,0 +1,6 @@
+target/
+.idea/
+test-output/
+actitimereports/
+temp.txt
+*.doc
